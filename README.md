@@ -6,7 +6,7 @@
 1. [Introduction and Aim]
 2. [Tools]
 3. [Installation]
-4. [Instructions to Run the files](#run)
+4. [Instructions to Run the files]
 
 ### Introduction
 
@@ -35,7 +35,7 @@ Tools and languages used within the project:
 
 ---
 
-*Download all the github files and extract them
-*Open and extract them .
+*Download all the github files and extract them.
+*Open and extract them.
 *Open index.html file and run in localhost.
 *Can also right click on index.html and run in LiveServer on VSCode.
