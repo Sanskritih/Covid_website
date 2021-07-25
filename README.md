@@ -1,13 +1,13 @@
 # Covid_website
 
-#Website hosted here : (https://covidresponsive.000webhostapp.com/)
+#Website hosted here : https://covidresponsive.000webhostapp.com/
 ## Contents
 
-1. Introduction and Aim
+1. About
 2. Tools
 3. Instructions to Run the files
 
-## Introduction
+## About the Project
 
 ---
 This is a basic project on front-end development. The idea is to create a simple website delivering 
