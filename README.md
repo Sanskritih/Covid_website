@@ -36,6 +36,5 @@ Tools and languages used within the project:
 ---
 
 - Download all the github files and extract them.
-- Open and extract them.
 - Open index.html file and run in localhost.
 - Can also right click on index.html and run in LiveServer on VSCode.
