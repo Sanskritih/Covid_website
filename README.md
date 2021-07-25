@@ -1,12 +1,12 @@
 # Covid_website
 
 
-## Table of Contents
+## Contents
 
-1. [Introduction and Aim]()
-2. [Tools]
-3. [Installation]
-4. [Instructions to Run the files]
+1. Introduction and Aim
+2. Tools
+3. Installation
+4. Instructions to Run the files
 
 ### Introduction
 
