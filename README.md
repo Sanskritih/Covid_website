@@ -7,7 +7,7 @@
 2. Tools
 3. Instructions to Run the files
 
-### Introduction
+## Introduction
 
 ---
 This is a basic project on front-end development. The idea is to create a simple website delivering 
