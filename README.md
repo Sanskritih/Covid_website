@@ -5,8 +5,7 @@
 
 1. Introduction and Aim
 2. Tools
-3. Installation
-4. Instructions to Run the files
+3. Instructions to Run the files
 
 ### Introduction
 
